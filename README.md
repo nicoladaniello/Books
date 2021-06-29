@@ -1,5 +1,5 @@
 
-# Books (Front End)
+# Books
 
 Books is a simple bespoke bookkeeping application I've developed for a customer in the Hotel business. It provides an easy to use interface and it can run locally on Windows and Mac.
 
